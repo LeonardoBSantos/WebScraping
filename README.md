@@ -35,7 +35,7 @@ In this project, we use the spyder available on Anaconda navigator to write the 
 
 This script uses as data the [Brasileirão série A](https://globoesporte.globo.com/futebol/brasileirao-serie-a/) table. To access the HTML content in chrome, as an example, you can follow the steps: 
 
-Click the right button >  inspect > click the right button in table's HTML > copy > copy xpath
+``Click the right button >  inspect > click the right button in table's HTML > copy > copy xpath``
 
 ### Contributing:
 
